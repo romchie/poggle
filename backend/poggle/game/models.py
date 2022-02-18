@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 
+"""
 # Create your models here.
 class User(AbstractUser):
     # Basic User Model
@@ -38,3 +39,4 @@ class Submission(models.Model):
     # "solved" (BooleanField)
     # "num_tries" (PositiveIntegerField, default=0, max=6 tries)
     pass
+"""
